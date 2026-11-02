@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Fullstack+Developer;IT+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </h3>
 
-- **[Portofolio](hhttps://portofolio-raihan-five.vercel.app/)**
+- **[Portofolio](https://portofolio-raihan-five.vercel.app/)**
 
 <p align="center">
   <a href="https://github.com/HanzLyX">
