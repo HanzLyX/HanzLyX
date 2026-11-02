@@ -6,10 +6,19 @@
     <img src="https://komarev.com/ghpvc/?username=HanzLyX&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/raihan-masri-taufiqurrahman-33a74b2b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:raihanmasri040905@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
+
 - 🔭 I’m currently working as a **Fullstack Developer**.
 - 🌱 I’m currently studying **Manajemen Informatika at Politeknik Astra (ASTRAtech)**.
 - 💼 Serving as Staff of Interest & Talents in BEM Politeknik Astra.
